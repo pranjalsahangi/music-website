@@ -1,0 +1,15 @@
+h1{
+    color: blue;
+    background-color: aqua;
+}
+
+video{
+    background-color: magenta;
+}
+audio{
+    background-color: brown;
+}
+
+body{
+    background-color: rgb(165, 127, 255);
+}
